@@ -1,0 +1,7 @@
+https://mischianti.org/esp32-ethernet-w5500-with-plain-http-and-ssl-https/?amp=1
+
+
+https://mischianti.org/online-bearssl-certificate-trust-anchor-retriever-for-minimal-x509-verification-engine/
+
+
+https://www.techcoil.com/blog/how-to-post-json-data-to-a-http-server-endpoint-from-your-esp32-development-board-with-arduinojson/
